@@ -1,4 +1,3 @@
-📄 Cover Letter
 
 Dear Hiring Team,
 
@@ -44,4 +43,5 @@ I am highly motivated to contribute, learn, and grow in a challenging environmen
 Thank you for your time and consideration.
 
 Sincerely,
+
 Rakesh Kumar
